@@ -1,0 +1,3 @@
+protocol.c:54:5:protocol_encode	12	static
+protocol.c:89:17:protocol_decode_data	0	static
+protocol.c:94:5:protocol_decode	8	static

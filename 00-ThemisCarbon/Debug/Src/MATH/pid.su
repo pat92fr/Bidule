@@ -1,0 +1,4 @@
+pid.c:5:6:reset_pid	0	static
+pid.c:13:7:process_pid	16	static
+pid.c:44:6:reset_pid_win	0	static
+pid.c:53:7:process_pid_win	16	static

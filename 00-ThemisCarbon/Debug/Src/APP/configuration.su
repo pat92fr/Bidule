@@ -1,0 +1,3 @@
+configuration.c:14:6:HAL_Configuration_Init	0	static
+configuration.c:19:6:HAL_Configuration_Reload	0	static
+configuration.c:27:6:HAL_Configuration_Save	40	static

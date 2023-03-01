@@ -1,0 +1,8 @@
+stepper.c:26:10:speed_to_period	0	static
+stepper.c:40:6:HAL_Stepper_Motor_Init	0	static
+stepper.c:48:6:HAL_Stepper_Motor_Add	24	static
+stepper.c:80:6:HAL_Stepper_Motor_Set_Speed	8	static
+stepper.c:99:9:HAL_Stepper_Motor_Get_Position	0	static
+stepper.c:106:6:HAL_Stepper_Motor_Reset_Position	0	static
+stepper.c:114:6:process	8	static
+stepper.c:148:6:HAL_TIM_PeriodElapsedCallback	16	static
